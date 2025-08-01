@@ -151,7 +151,7 @@ function App() {
             Ам бүлийн тоо: <span className="text-[#2b8fec]">1</span>
           </div>
           <div className="text-[21px]">
-            Баярсайхан <span className="text-[#2b8fec]">Догорсүрэн</span>
+            Баярсайхан <span className="text-[#2b8fec]">Долгорсүрэн</span>
           </div>
         </div>
       </div>
