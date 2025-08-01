@@ -31,23 +31,23 @@ function App() {
   const myArray = [
     {
       text: "Ургийн овог",
-      value: "Хатуу",
+      value: "Зэвэг",
     },
     {
       text: "Нэр",
-      value: "Далайхүү",
+      value: "Долгорсүрэн",
     },
     {
       text: "Хүйс",
-      value: "Эрэгтэй",
+      value: "Эмэгтэй",
     },
     {
       text: "Регистрийн дугаар",
-      value: "рн03210813",
+      value: "УО03232180",
     },
     {
       text: "Яс үндэс ",
-      value: "Дархад",
+      value: "Халх",
     },
   ];
 
@@ -151,7 +151,7 @@ function App() {
             Ам бүлийн тоо: <span className="text-[#2b8fec]">1</span>
           </div>
           <div className="text-[21px]">
-            ЦОГТБААТАР <span className="text-[#2b8fec]">ДАЛАЙХҮҮ</span>
+            Баярсайхан <span className="text-[#2b8fec]">Догорсүрэн</span>
           </div>
         </div>
       </div>
@@ -195,7 +195,7 @@ function App() {
                 Үл хөдлөх (Y1713000180)
               </h1>
               <h1 className="font-medium text-[#012468] text-[15px]">
-                Хөвсгөл Улаан-Уул сум 5-р баг, Төгөл 3 гудамж, 8 тоот
+                Улаанбаатар, Баянгол,6р хороо, 35р байр, 25 тоот
               </h1>
             </div>
           </div>
