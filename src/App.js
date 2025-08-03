@@ -31,7 +31,7 @@ function App() {
   const myArray = [
     {
       text: "Ургийн овог",
-      value: "Боржигон",
+      value: "Зэвэг",
     },
     {
       text: "Нэр",
@@ -120,7 +120,7 @@ function App() {
           <div className="flex flex-col gap-4 mt-4 text-[18px]">
             <p className="text-[23px]">Иргэний үнэмлэхийн хаяг</p>
             <p className="text-[#012468] font-medium">
-              Улаанбаатар, Баянгол,6р хороо, 35р байр, 25 тоот
+              УБ, Баянгол, 32-р хороо 3 хороолол, ц.намсрай гудамж 45а байр, 111 тоот
             </p>
             <p className="text-[23px]">Оршин суугаа хаяг</p>
           </div>
@@ -195,7 +195,7 @@ function App() {
                 Үл хөдлөх (Y1713000180)
               </h1>
               <h1 className="font-medium text-[#012468] text-[15px]">
-                Улаанбаатар, Баянгол,6р хороо, 35р байр, 25 тоот
+                Улаанбаатар, Баянгол, 6р хороо, 35р байр, 25 тоот
               </h1>
             </div>
           </div>
